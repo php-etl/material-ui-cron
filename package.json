@@ -1,5 +1,5 @@
 {
-  "name": "material-ui-cron",
+  "name": "@php-etl/material-ui-cron",
   "version": "0.2.0",
   "description": "A React cron editor using material ui",
   "author": "Parichay Barpanda <parichay.barpanda@gmail.com> (https://github.com/baymac/)",
